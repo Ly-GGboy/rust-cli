@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Wojciech Szczesny",
+    "Position": "Goalkeeper",
+    "DOB": "1987-05-18",
+    "Nationality": "Poland",
+    "Kit Number": 1
+  },
+  {
+    "Name": "Marek Hamšík",
+    "Position": "Midfielder",
+    "DOB": "1987-07-27",
+    "Nationality": "Slovakia",
+    "Kit Number": 10
+  },
+  {
+    "Name": "Mattia Perin",
+    "Position": "Goalkeeper",
+    "DOB": "1989-02-15",
+    "Nationality": "Italy",
+    "Kit Number": 12
+  }
+]
